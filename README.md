@@ -4,6 +4,7 @@
 - Software Engineering
 - Web Development
 - Network Security
+- Blockchain Development
 
 ## 🌱 I’m currently learning
 - Web Development (HTML, JS, CSS...)
