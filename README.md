@@ -1,6 +1,6 @@
 # @Sleepytt1210
-<script src="https://tryhackme.com/badge/250760"></script>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sleepy1210.png" alt="TryHackMe">
 
 ## 👀 I’m interested in
 - Software Engineering
