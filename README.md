@@ -9,8 +9,7 @@
 - Blockchain Development
 
 ## 🌱 I’m currently learning
-- Web Development (HTML, JS, CSS...)
-- Linux
+- Back-end development (Go, Java, Kubernetes, Docker, ...)
 - Offensive Security
 - Defensive Security
 - Penetration Testing
